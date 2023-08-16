@@ -1,3 +1,4 @@
+Desenvolvido durante estudo do curso sobre git, da Alura
 <h1>Sistema de cadastro de jogos</h1>
 
 > Status do projeto: Em desenvolvimento
